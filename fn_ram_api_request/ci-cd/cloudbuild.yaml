@@ -8,7 +8,7 @@ isteps:
   - 'ram-api-request'
   - '--gen2'
   - '--region'
-  - 'europe-west2'
+  - 'europe-west1'
   - '--runtime'
   - 'python38'
   - '--source'
