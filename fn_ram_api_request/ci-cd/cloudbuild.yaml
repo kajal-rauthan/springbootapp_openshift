@@ -12,7 +12,7 @@ isteps:
   - '--runtime'
   - 'python38'
   - '--source'
-  - '4_continuous_deployment/fn_ram_api_request'
+  - 'fn_ram_api_request'
   - '--entry-point'
   - 'send_api_request'
   - '--trigger-http'
